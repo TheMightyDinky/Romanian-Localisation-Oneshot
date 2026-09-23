@@ -1,34 +1,27 @@
 # Romanian-Localisation-Oneshot
-A Full Romanian Localisation made specifically for the Steam Version of Oneshot.
+A full Romanian localisation made specifically for the Steam version of **OneShot**.
+> Unofficial fan translation, not affiliated with the developers. You need to own the game on Steam.
 
----
 ## Introduction
-Greetings, laddies! I am TheMightyDinky, and I have been working on this Romanian Localisation project for 25 days straight.
-I noticed that this game is not well known in Romania at all, so I decided to work on a Romanian Localisation that could help those who speak Romanian enjoy this masterpiece of a game in their own language; I am aware that many people may not be fluent in English, so this should offer them a new way to experience the game.
-I am eager to bring more happiness in the world.
+Greetings, everyone! I am TheMightyDinky, and I spent 25 days straight working on this Romanian localisation.
+OneShot is not well known in Romania, and I know many people are not fluent in English, so I wanted to give them a way to experience this masterpiece in their own language. I hope it brings a little more happiness into the world.
 
----
 ## Installation
 1. Download the mod.
-2. Unarchive `Romanian Localisation Oneshot.rar`.
-3. Copy and paste its contents in `C:\...\Steam\steamapps\common\OneShot\...\` as needed.
-4. Enjoy!
+2. Extract `Romanian Localisation Oneshot.rar` (you will need 7-Zip or WinRAR).
+3. Back up the original files, then copy the extracted contents into `C:\...\Steam\steamapps\common\OneShot\[exact folder]\`, overwriting when asked.
+4. Launch the game and enjoy!
 
----
 ## Features
-* **Local proverbs:** Made sure that the text contains proverbs in some places in order to make the text feel more natural and alive.
-* **Inclusion of Less Known Nouns/verbs/adjectives:** In order to make the dialogue have a bigger impact, and be more varied, I have added less known words as well. Due to this decision, this game can be used by anyone to practice their Romanian, including Non-native Romanian Speakers.
-* **Localised Images:** Edited the images to make sure they display the text in Romanian instead of English, so the immersion does not break.
-* **Localised Textures:** Edited a few textures to make sure they display the text in Romanian instead of English, so the immersion does not break.
-* **Localised Key Bindings Menu** Translated the whole menu to Romanian.
-* **Localised Tutorial** Translated the whole Tutorial to Romanian.
-* **Added Vocal tics:** There will be a few vocal tics for the characters in order to make them feel more alive, and enhance their current personalities. It respects the Game Story, and Characters.
-* **Main Game + Solstice Support** The Main Game Run, and also the Solstice Run are fully localised.
-* **Supported Romanian Font** Changed the Default `"Terminus (TTF)"` Text Font for the `"CozetteVector Text Font"` which supports Romanian diacritics.
-* **New name reactions from Niko** Added Romanian words that Niko may react to when added to someone's name.
+* **Local proverbs:** Proverbs appear in places to make the text feel more natural and alive.
+* **Richer vocabulary:** Less-known nouns, verbs and adjectives make the dialogue more varied and impactful. This also makes the game useful for practising Romanian, including for non-native speakers.
+* **Localised images and textures:** Edited so they display Romanian text instead of English, keeping the immersion intact.
+* **Localised key bindings menu:** The whole menu is translated.
+* **Localised tutorial:** The whole tutorial is translated.
+* **Vocal tics:** A few characters have vocal tics that enhance their personalities while respecting the story and characters.
+* **Main game + Solstice support:** Both the main run and the Solstice run are fully localised.
+* **Romanian font support:** The default `Terminus (TTF)` font is replaced with `CozetteVector`, which supports Romanian diacritics.
+* **New name reactions from Niko:** Added Romanian words that Niko can react to when used in a player's name.
 
----
 ## Final notes
-While I did work for 25 days on this Localisation; that does not guarantee there may be no mistakes though.
-I may update it someday if needed, but at the moment I do not have time to work on it anymore.
-Thank you for your understanding.
+Despite 25 days of work, there may still be mistakes. If you find one, please open an issue on this repository. I may update the localisation someday, but I currently do not have time to work on it. Thank you for your understanding!
