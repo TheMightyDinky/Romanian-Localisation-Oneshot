@@ -9,7 +9,7 @@ OneShot is not well known in Romania, and I know many people are not fluent in E
 ## Installation
 1. Download the mod.
 2. Extract `Romanian Localisation Oneshot.rar` (you will need 7-Zip or WinRAR).
-3. Back up the original files, then copy the extracted contents into `C:\...\Steam\steamapps\common\OneShot\[exact folder]\`, overwriting when asked.
+3. Back up the original files, then copy the extracted contents into `C:\...\Steam\steamapps\common\OneShot\`, overwriting when asked.
 4. Launch the game and enjoy!
 
 > **Note:** If Steam updates the game or you use "Verify integrity of game files", the original files may be restored. If the localisation disappears, just install it again.
