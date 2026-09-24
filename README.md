@@ -36,6 +36,7 @@ The `CozetteVector` font is by the [Cozette Contributors](https://github.com/the
 Salut! Aceasta este **o traducere completă în limba română pentru jocul OneShot** (versiunea Steam). Cu ea poți juca atât povestea principală, cât și Solstice în întregime în română: dialoguri, imagini, texturi, meniul principal, meniul de taste și tutorialul sunt traduse, iar fontul folosit afișează corect diacriticele (ă, â, î, ș, ț).
 
 Am tradus totul manual, șir cu șir, folosind ca ajutor unelte precum Gemini și DeepL, alături de dicționare.
+Traducerea conține peste 7.000 de șiruri de text și aproximativ 55.000 de cuvinte.
 
 Instalarea este explicată mai sus, la secțiunea **Installation**. Pe scurt: extragi arhiva și copiezi conținutul în folderul jocului.
 Este o traducere neoficială, făcută de un fan, deci ai nevoie de jocul original de pe Steam.
