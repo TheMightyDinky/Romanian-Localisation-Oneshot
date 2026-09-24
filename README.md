@@ -13,7 +13,7 @@ OneShot is not well known in Romania, and I know many people are not fluent in E
 4. Launch the game and enjoy!
 
 ## Features
-* **Local proverbs:** Proverbs appear in places to make the text feel more natural and alive.
+* **Local idioms:** Natural Romanian expressions and idioms appear throughout the dialogue, to make the text feel more alive.
 * **Richer vocabulary:** Less-known nouns, verbs and adjectives make the dialogue more varied and impactful. This also makes the game useful for practising Romanian, including for non-native speakers.
 * **Localised images and textures:** Edited so they display Romanian text instead of English, keeping the immersion intact.
 * **Localised key bindings menu:** The whole menu is translated.
