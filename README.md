@@ -3,7 +3,7 @@ A full Romanian localisation made specifically for the Steam version of **OneSho
 > Unofficial fan translation, not affiliated with the developers. You need to own the game on Steam.
 
 ## Introduction
-Greetings, everyone! I am TheMightyDinky, and I spent 25 days straight working on this Romanian localisation.
+Greetings, everyone! I am TheMightyDinky, and I spent 25 days straight working on this Romanian localisation: over 7,000 strings and roughly 55,000 words.
 OneShot is not well known in Romania, and I know many people are not fluent in English, so I wanted to give them a way to experience this masterpiece in their own language. I hope it brings a little more happiness into the world.
 
 ## Installation
