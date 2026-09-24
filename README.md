@@ -31,7 +31,7 @@ Every string was translated one by one, by hand. To speed up the work I used AI 
 ## Final notes
 Despite 25 days of work, there may still be mistakes. If you find one, please open an issue on this repository. I may update the localisation someday, but I currently do not have time to work on it. Thank you for your understanding!
 
-The `CozetteVector` font is by [Cozette Contributors](https://github.com/the-moonwitch/Cozette/graphs/contributors?from=6%2F20%2F2026) and is included under its own license.
+The `CozetteVector` font is by [Cozette Contributors](https://github.com/the-moonwitch/Cozette?tab=MIT-1-ov-file) and is included under its own license.
 
 ## 🇷🇴 Pentru jucătorii din România
 Salut! Aceasta este **o traducere completă în limba română pentru jocul OneShot** (versiunea Steam). Cu ea poți juca atât povestea principală, cât și Solstice în întregime în română: dialoguri, imagini, texturi, meniul principal, meniul de taste și tutorialul sunt traduse, iar fontul folosit afișează corect diacriticele (ă, â, î, ș, ț).
