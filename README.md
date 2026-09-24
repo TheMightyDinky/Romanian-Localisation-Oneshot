@@ -20,7 +20,6 @@ OneShot is not well known in Romania, and I know many people are not fluent in E
 * **Localised images and textures:** Edited so they display Romanian text instead of English, keeping the immersion intact.
 * **Localised key bindings menu:** The whole menu is translated.
 * **Localised tutorial:** The whole tutorial is translated.
-* **Vocal tics:** A few characters have vocal tics that enhance their personalities while respecting the story and characters.
 * **Main game + Solstice support:** Both the main run and the Solstice run are fully localised.
 * **Romanian font support:** The default `Terminus (TTF)` font is replaced with `CozetteVector`, which supports Romanian diacritics.
 * **New name reactions from Niko:** Added Romanian words that Niko can react to when used in a player's name.
